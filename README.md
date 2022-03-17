@@ -1,11 +1,11 @@
 ```HTML 
-<Developers>Hello Everyone! Welcome to My World and Thank You Visiting</Developers> 
+<Developers>Hello Everyone! Welcome and Thank You Visiting</Developers> 
 ```
 
 
 ### About Me
 
-🔥 &nbsp;I am Yogita Sahni and a Advanced Python Developer.  
+🔥 &nbsp;I am Yogita Sahni and an Advanced Python Developer.  
 👨‍🎓 &nbsp;Studing at Guru Nanak Dev Engineering College, Ludhiana as a student of Bachlor of Technology in Information Technology.   
 💼 &nbsp;Worked on real-time projects which are based on **Python** and **MySQL**.
 
